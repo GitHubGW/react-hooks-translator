@@ -5,7 +5,6 @@ import "./Home.css";
 const Home = () => {
   const { handleTranslate } = useContext(LanguageContext);
   const inputTag = useRef();
-  const soundTag = useRef();
   const h2Tag = useRef();
   const audioTag = useRef();
 
@@ -38,7 +37,7 @@ const Home = () => {
       <button type="button" onClick={() => handleLanguage("chinese")}>
         🇨🇳 중국어 번역
       </button>
-      <div ref={soundTag}>
+      <div>
         <h2 ref={h2Tag}>{}</h2>
         <audio ref={audioTag}></audio>
       </div>

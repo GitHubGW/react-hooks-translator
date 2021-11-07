@@ -20,7 +20,6 @@ const translations = {
     감사합니다: "谢谢。",
     미안합니다: "对不起。",
   },
-
   sound: {
     english: {
       안녕하세요:
