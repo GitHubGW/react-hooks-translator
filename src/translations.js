@@ -26,7 +26,7 @@ const translations = {
       안녕하세요:
         "https://dict-dn.pstatic.net/naver/dic/naverdic/endic/pron/new/us/004/004400.mp3?_lsu_sa_=33c8d95b7de93c86ee97611c34f4bdfa4d7b6395290c8fd06e02aa74ab226bd15a5427f26125017099116b35cf2180cde4e684298e546420b911ddb9c3cd12281a3364b3f7834f47383a955f23b51b45",
       안녕히가세요:
-        "https://m.search.naver.com/p/csearch/ocontent/util/ttsProxy.naver?service=nco_translate&from=pc_search&speech_fmt=mp3&speed=0&passportKey=526fb46ddce9691f3bd1a94a39b8e0073cbf7855&speaker=mijin&text=%EC%95%88%EB%85%95%ED%9E%88%EA%B0%80%EC%84%B8%EC%9A%94",
+        "https://dict-dn.pstatic.net/naver/dic/naverdic/endic/pron/new/us/001/001400.mp3?_lsu_sa_=3f7874520d6c37c6b29b41f23c24c4fccd6a6885f509bf6f6552d776bbcf6f119454774761658374d9ab6965092a10bc252cd7c1db5266eb568711d5a3777bb45b696280bf7b632334e528e7902fe1f7",
       반갑습니다:
         "https://dict-dn.pstatic.net/naver/dic/naverdic/endic/pron/new/us/010/010037.mp3?_lsu_sa_=3a2890517dbf39c6369471613664bff2bdfa6b458809efb362b2ff7fab1f6131985717946835b67c19916c658e25b0652cb2a8cbf436044cdaef76436c5d2ccc910fd369fd7ee56fe093b5ac4a4b81cf",
       감사합니다:
