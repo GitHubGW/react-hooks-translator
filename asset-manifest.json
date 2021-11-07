@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-hooks-translator/static/css/main.80420b15.chunk.css",
-    "main.js": "/react-hooks-translator/static/js/main.5de86181.chunk.js",
-    "main.js.map": "/react-hooks-translator/static/js/main.5de86181.chunk.js.map",
+    "main.css": "/react-hooks-translator/static/css/main.24afe6c6.chunk.css",
+    "main.js": "/react-hooks-translator/static/js/main.5dcdc2a6.chunk.js",
+    "main.js.map": "/react-hooks-translator/static/js/main.5dcdc2a6.chunk.js.map",
     "runtime-main.js": "/react-hooks-translator/static/js/runtime-main.ff2e3be2.js",
     "runtime-main.js.map": "/react-hooks-translator/static/js/runtime-main.ff2e3be2.js.map",
     "static/js/2.dde0c4fc.chunk.js": "/react-hooks-translator/static/js/2.dde0c4fc.chunk.js",
     "static/js/2.dde0c4fc.chunk.js.map": "/react-hooks-translator/static/js/2.dde0c4fc.chunk.js.map",
     "index.html": "/react-hooks-translator/index.html",
-    "static/css/main.80420b15.chunk.css.map": "/react-hooks-translator/static/css/main.80420b15.chunk.css.map",
+    "static/css/main.24afe6c6.chunk.css.map": "/react-hooks-translator/static/css/main.24afe6c6.chunk.css.map",
     "static/js/2.dde0c4fc.chunk.js.LICENSE.txt": "/react-hooks-translator/static/js/2.dde0c4fc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ff2e3be2.js",
     "static/js/2.dde0c4fc.chunk.js",
-    "static/css/main.80420b15.chunk.css",
-    "static/js/main.5de86181.chunk.js"
+    "static/css/main.24afe6c6.chunk.css",
+    "static/js/main.5dcdc2a6.chunk.js"
   ]
 }
