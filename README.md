@@ -7,8 +7,6 @@ https://githubgw.github.io/react-hooks-translator
 ## 🖥 Preview
 
 <img src="./previews/preview1.png" />
-<img src="./previews/preview2.png" />
-<img src="./previews/preview3.png" />
 
 ## 🔥 Stack
 
